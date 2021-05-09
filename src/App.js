@@ -1,8 +1,12 @@
 function App() {
   return (
-    <div>
-      <h1> Speed Typing Game </h1>
-    </div>
+    <>
+      <h1>How fast do you type?</h1>
+      <textarea />
+      <h4>Time reminaing: __</h4>
+      <button>Start</button>
+      <h1>Word count: ???</h1>
+    </>
   );
 }
 
